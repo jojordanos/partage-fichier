@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Uploads
+uploads/
+
+# Database files
+*.db
